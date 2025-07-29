@@ -13,3 +13,16 @@ print(result1)
 
 result2 = update_dictionary({"age": 25}, "age", 26)
 print(result2)
+
+
+# i am not too sure if the question meant this;
+
+thisdict = {
+  "brand": "Sony",
+  "series": "Bravia",
+  "size": "55 inch",
+  "size": "65 inch"
+}
+print(thisdict)
+
+# this was one of the tutorials from w3schools.
